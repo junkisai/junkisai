@@ -1,4 +1,4 @@
-![cover image](https://junkisaito.com/img/8e995f2c1786e4a57aea6e3fa10e6b00.jpeg)
+![cover image](https://user-images.githubusercontent.com/28256336/92463451-c9f19600-f206-11ea-9f06-68fa89ae0d2a.png)
 
 [![twitter badge](https://img.shields.io/badge/twitter-junkisai-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/junkisai) [![blog badge](https://img.shields.io/badge/homepage-junkisaito.com-1f425f?style=flat-square)](https://junkisaito.com)
 
