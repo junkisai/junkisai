@@ -11,19 +11,18 @@
 
 - HTML
 - CSS
-- JavsScript
+- JavaScript
 - TypeScript
 - React
 - Node.js (Express)
-- PHP (Laravel, Slim)
-- Processing
 
 ### Hobby
 
 - 旅
 - 世界のビール漁り
-- 漫画
-- 映画観賞
+- キャンプ
+- サウナ
+
 
 ### Likes
 
