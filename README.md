@@ -6,24 +6,3 @@
 ### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkisai&layout=compact)](https://github.com/junkisai)
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Node.js (Express)
-
-### Hobby
-
-- 旅
-- 世界のビール漁り
-- キャンプ
-- サウナ
-
-
-### Likes
-
-- 犬
-- 北海道
-- 水曜どうでしょう
