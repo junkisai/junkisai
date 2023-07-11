@@ -13,6 +13,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=junkisai" />
 </p>
 
-### 📨 Contact
+### 🔗 Links
 
-[![twitter badge](https://img.shields.io/badge/twitter-junkisai-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/junkisai) [![blog badge](https://img.shields.io/badge/homepage-junkisaito.com-1f425f?style=flat-square)](https://junkisaito.com)
+[![twitter badge](https://img.shields.io/badge/twitter-junkisai-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/junkisai) 
+[![blog badge](https://img.shields.io/badge/homepage-junkisaito.com-1f425f?style=flat-square)](https://junkisaito.com)
