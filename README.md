@@ -1,5 +1,6 @@
-### Hi! I'm junkisai🐶
+## Hi <img src="https://github.com/user-attachments/assets/b237bc49-125a-4691-9ae4-70cbaca23aec" height="28px" />
 
-I'm a Front End Engineer based in Sapporo.
+I'm Junki Saito, a Front End Engineer.
 
-I love working in-between product, engineering and developer experience, currently at [ROUTE06](https://route06.co.jp/).
+- ⛄️ Living in Sapporo, Japan
+- 👨‍💻 Currently at [ROUTE06](https://route06.co.jp/)
