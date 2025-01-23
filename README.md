@@ -4,3 +4,4 @@ I'm Junki Saito, a Front End Engineer.
 
 - ⛄️ Living in Sapporo, Japan
 - 👨‍💻 Currently at [ROUTE06](https://route06.co.jp/)
+- 🐕 I'm a dog lover.
